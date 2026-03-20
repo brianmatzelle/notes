@@ -1,5 +1,5 @@
 # Context
-The NYC problem statement, [generated with claude](https://claude.ai/chat/f08106e6-8bdb-4978-8620-ef20f468d7e5)
+The NYC problem statement.
 
 # Urban Air Quality Crisis: Problem Statement
 
